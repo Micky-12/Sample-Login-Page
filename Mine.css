@@ -1,0 +1,75 @@
+body{
+    background-image:repeating-radial-gradient(rgb(255, 255, 255), rgb(0, 13, 253));
+}
+h1
+{
+    font-family: Stencil;
+    font-weight: 700;
+    color: rgb(4, 4, 122);
+    padding-top: 3%;    
+    text-align: center;
+}
+h3
+{
+    font-family: Californian FB;
+    font-weight: 700;
+    color: rgb(4, 4, 122);   
+    text-align: center;
+}
+.INPUT
+{
+    width: max-content;
+    width: 500px;
+    height: 50px;
+    margin-left: 15%;
+    background-color: rgb(255, 236, 63);
+    text-indent: 5%;    
+    border-color: black;
+    border-style: groove;
+    object-position: 30%;
+    
+
+    
+}
+.sign
+{
+    
+    margin-left: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-right: auto;
+    height: 600px;
+    width: 700px;
+    background-color: aqua;
+    object-position: 50%;
+    border-style: groove;
+    border-width: 20%;
+    border-color: rgb(0, 0, 0);
+    mask-border-mode: 60px;
+
+}
+::placeholder
+{
+    font-family: Cooper Black;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    text-decoration: saddlebrown;
+    opacity: 25%;
+}
+.box
+{
+    width: 500px;
+    height: 50px;    
+    color: rgb(18, 254, 1);
+    font-size: 30px;
+    margin-left: 5%;
+    background-color: rgb(74, 0, 149);
+    font-family:Cooper Black;
+}
+a
+{
+    color:rgb(0, 0, 0);
+    margin-left: 10%;
+    font-size: larger;
+    text-decoration: none;
+}
